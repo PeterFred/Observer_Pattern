@@ -1,0 +1,26 @@
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\bin\Debug\WeatherORamaForm.exe.config
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\bin\Debug\WeatherORamaForm.exe
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\bin\Debug\WeatherORamaForm.pdb
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORama.csprojAssemblyReference.cache
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORamaForm.CurrentConditionsDisplay.resources
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORamaForm.WeatherData.resources
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORamaForm.Properties.Resources.resources
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORama.csproj.GenerateResource.cache
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORama.csproj.CoreCompileInputs.cache
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORamaForm.exe
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORamaForm.pdb
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORamaForm.ForecastDisplay.resources
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORamaForm.WeatherStatistics.resources
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_5_Observer_WeatherORama\WeatherORama\WeatherORamaForm\bin\Debug\WeatherORamaForm.exe.config
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_5_Observer_WeatherORama\WeatherORama\WeatherORamaForm\bin\Debug\WeatherORamaForm.exe
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_5_Observer_WeatherORama\WeatherORama\WeatherORamaForm\bin\Debug\WeatherORamaForm.pdb
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_5_Observer_WeatherORama\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORama.csprojAssemblyReference.cache
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_5_Observer_WeatherORama\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORamaForm.CurrentConditionsDisplay.resources
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_5_Observer_WeatherORama\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORamaForm.ForecastDisplay.resources
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_5_Observer_WeatherORama\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORamaForm.WeatherData.resources
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_5_Observer_WeatherORama\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORamaForm.Properties.Resources.resources
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_5_Observer_WeatherORama\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORamaForm.WeatherStatistics.resources
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_5_Observer_WeatherORama\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORama.csproj.GenerateResource.cache
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_5_Observer_WeatherORama\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORama.csproj.CoreCompileInputs.cache
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_5_Observer_WeatherORama\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORamaForm.exe
+E:\Dropbox\Uni\158326 Software Architecture\Tutorial\Tutorial_5_Observer_WeatherORama\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORamaForm.pdb

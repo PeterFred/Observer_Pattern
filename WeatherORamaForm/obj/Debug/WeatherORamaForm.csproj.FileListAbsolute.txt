@@ -1,0 +1,11 @@
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORamaForm.csprojAssemblyReference.cache
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORamaForm.WeatherData.resources
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORamaForm.Properties.Resources.resources
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORamaForm.csproj.GenerateResource.cache
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORamaForm.csproj.CoreCompileInputs.cache
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\bin\Debug\WeatherORamaForm.exe.config
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\bin\Debug\WeatherORamaForm.exe
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\bin\Debug\WeatherORamaForm.pdb
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORamaForm.exe
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORamaForm.pdb
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaForm\obj\Debug\WeatherORamaForm.CurrentConditionsDisplay.resources

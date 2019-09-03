@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="WeatherORamaForm.CurrentConditionsDisplay">
+    <Position X="4" Y="2.25" Width="2.5" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAQAACAACAAAAAIAgCAAQEKADAAAABAEAIQAACQAAI=</HashCode>
+      <FileName>CurrentConditionsDisplay.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WeatherORamaForm.WeatherData">
+    <Position X="0.5" Y="2.5" Width="2.5" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="LabelHumidityHeader" Hidden="true" />
+      <Field Name="LabelPressureHeader" Hidden="true" />
+      <Field Name="LabelTempHeader" Hidden="true" />
+      <Field Name="LabelWeatherHeader" Hidden="true" />
+      <Field Name="TextBoxHumidityEnter" Hidden="true" />
+      <Field Name="TextBoxPressureEnter" Hidden="true" />
+      <Field Name="TextBoxTempEnter" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAQCAACgAAAABAgCBAAECAEAAIIBEAAAAAAQiAAA=</HashCode>
+      <FileName>WeatherData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WeatherORamaForm.ForecastDisplay">
+    <Position X="6.75" Y="2.25" Width="2.25" />
+    <Members>
+      <Field Name="ButtonRegister" Hidden="true" />
+      <Field Name="ButtonRemove" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="LabelExpectedDisplay" Hidden="true" />
+      <Field Name="LabelExpectedHeader" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAQAACAACAAABAAABCAAQACADAAAAAEAQAQAAAAQAI=</HashCode>
+      <FileName>ForecastDisplay.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WeatherORamaForm.WeatherStatistics">
+    <Position X="4.75" Y="5.25" Width="2.25" />
+    <Members>
+      <Field Name="ButtonRegister" Hidden="true" />
+      <Field Name="ButtonRemove" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="LabelAverageDisplay" Hidden="true" />
+      <Field Name="LabelAverageHeader" Hidden="true" />
+      <Field Name="LabelMainHeader" Hidden="true" />
+      <Field Name="LabelMaxDisplay" Hidden="true" />
+      <Field Name="LabelMaxHeader" Hidden="true" />
+      <Field Name="LabelMinDisplay" Hidden="true" />
+      <Field Name="LabelMinHeader" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>EEAQAEDCACAAAAAAEBCAAQACADAAAAAAAAAQgAAAQAI=</HashCode>
+      <FileName>WeatherStatistics.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WeatherORamaForm.WeatherDataObject">
+    <Position X="9.25" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAgAABCAJAAAQAAgAAAAABEkgAAAAA=</HashCode>
+      <FileName>WeatherDataObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="WeatherORamaForm.ISubject">
+    <Position X="0.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAIAAAAAAAAAAgAAA=</HashCode>
+      <FileName>ISubject.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WeatherORamaForm.IObserver">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

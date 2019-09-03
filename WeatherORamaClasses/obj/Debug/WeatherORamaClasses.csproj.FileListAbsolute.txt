@@ -1,0 +1,6 @@
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaClasses\bin\Debug\WeatherORamaClasses.dll
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaClasses\bin\Debug\WeatherORamaClasses.pdb
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaClasses\obj\Debug\WeatherORamaClasses.csprojAssemblyReference.cache
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaClasses\obj\Debug\WeatherORamaClasses.csproj.CoreCompileInputs.cache
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaClasses\obj\Debug\WeatherORamaClasses.dll
+C:\Users\peter.LINCOLN\source\repos\WeatherORama\WeatherORamaClasses\obj\Debug\WeatherORamaClasses.pdb
